@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>955903295538-epqdbj9lhnhf9mni16mh4loktpa2nrfm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.955903295538-epqdbj9lhnhf9mni16mh4loktpa2nrfm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDR4fM1OIiBtIyDvzN9rvByvJKc88ibBnE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>955903295538</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tsunamisoftware.TempShot</string>
+	<key>PROJECT_ID</key>
+	<string>tempshot-6df8c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tempshot-6df8c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:955903295538:ios:2f43263f3df3fbec</string>
+	<key>DATABASE_URL</key>
+	<string>https://tempshot-6df8c.firebaseio.com</string>
+</dict>
+</plist>
